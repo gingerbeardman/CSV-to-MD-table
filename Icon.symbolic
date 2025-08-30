@@ -1,0 +1,34 @@
+{
+  "symbolColor" : {
+    "blue" : 0.9999999403953552,
+    "red" : 0.9999999403953552,
+    "green" : 0.9999999403953552,
+    "alpha" : 1
+  },
+  "id" : "24670896-9CE6-40DD-86CB-111B3E0DEB8D",
+  "bottomColor" : {
+    "green" : 0.26236918568611145,
+    "red" : 0.23292186856269836,
+    "blue" : 0.9489251971244812,
+    "alpha" : 1
+  },
+  "iconScale" : 0.8523060368342598,
+  "iconOffset" : [
+    0,
+    0.007130456349206393
+  ],
+  "version" : 1,
+  "shadowHeight" : 0.3,
+  "symbol" : {
+    "variant" : "round",
+    "family" : "material-icons",
+    "name" : "grid_on"
+  },
+  "topColor" : {
+    "green" : 0.5093963742256165,
+    "red" : 0,
+    "alpha" : 1,
+    "blue" : 0.35624104738235474
+  },
+  "shadowOpacity" : 0
+}

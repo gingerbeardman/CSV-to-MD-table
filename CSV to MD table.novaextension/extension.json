@@ -1,0 +1,25 @@
+{
+    "bugs": "https://github.com/gingerbeardman/CSV-to-Markdown-table/issues",
+    "description": "Converts tabular data between CSV/TSV and Markdown",
+    "funding": "https://ko-fi.com/gingerbeardman",
+    "identifier": "com.gingerbeardman.csv2md",
+    "homepage": "https://www.gingerbeardman.com",
+    "name": "CSV to MD table",
+    "organization": "gingerbeardman",
+    "repository": "https://github.com/gingerbeardman/CSV-to-MD-table",
+    "version": "1.0.0",
+
+    "categories": ["commands"],
+
+    "main": "main.js",
+
+    "commands": {
+        "editor": [
+            {
+                "title": "Convert CSV/TSV to Markdown",
+                "command": "com.gingerbeardman.csv2md",
+                "shortcut": "command-control-t"
+            }
+        ]
+    }
+}
